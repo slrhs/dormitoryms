@@ -1,5 +1,5 @@
 # dormitoryms
-
+#配合springbootdormitory使用，前后端分离
 ## Project setup
 ```
 npm install
